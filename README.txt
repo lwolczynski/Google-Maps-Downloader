@@ -1,4 +1,4 @@
-
+Java project to download part of Google Maps with style applied
 
 How to use:
 1. Edit config.properties
